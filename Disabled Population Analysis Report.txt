@@ -1,0 +1,10 @@
+Analysis Report
+
+- Total Disabled Population in India as per Census 2011: 27M (rounded values)
+- Total Females: 12M, Total Males: 15M, indicating that the number of disabled males is greater than females.
+- The number of disabled people in rural areas is greater than in urban areas.
+- Uttar Pradesh has the highest number of disabled people.
+- The majority of disabled people live in normal households, followed by institutional households and houseless households.
+- Loss of movement is the most prevalent disability, followed by loss of hearing, loss of seeing, multiple disabilities, loss of speech, mental retardation, and mental illness.
+
+Note: Census 2021 has not been released yet.
