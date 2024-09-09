@@ -1,0 +1,41 @@
+Cost Analysis of Generic vs. Brand-Name Drugs for Hypertension  
+A simple HEOR project with easy-to-access data sources
+
+Objective:  
+Compare the annual cost of treating hypertension using a brand-name drug versus its generic equivalent.
+---
+Steps:  
+1. Choose a Common Hypertension Drug: 
+   Example: Lisinopril (generic) vs. Zestril (brand name) (20 mg Tablets)
+
+2. Data Collection:  
+   -GoodRx: Provides prices for both brand-name and generic medications (prices referred from Walmart).
+
+3. Simple Cost Calculation  
+4. Visualization
+
+---
+
+Analysis Report
+
+- Lisinopril (Generic) – 30 Tablets, 20 mg = $4.00 (11.23 Rs per Tablet)  
+   - Monthly Cost: 341.58 Rs  
+   - Annual Cost: 4,098.95 Rs
+
+- Zestril (Brand) – 90 Tablets, 20 mg = $1,252.00 (1,172.28 Rs per Tablet)  
+   - Monthly Cost: 35,656.85 Rs  
+   - Annual Cost: 427,882.2 Rs
+
+---
+
+Cost Savings with Generic Drugs: 99.04%
+
+---
+
+Switching from Zestril (brand-name) to Lisinopril (generic) can save patients up to 99.04% in annual medication costs, making generics a highly cost-effective choice for hypertension treatment.
+
+Note: Any kind of suggestion or correction is appreciated, Thank You
+
+#HealthEconomics
+#PharmaceuticalCostAnalysis
+#HEOR
